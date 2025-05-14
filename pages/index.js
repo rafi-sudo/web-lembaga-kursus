@@ -3,13 +3,13 @@ import { useState } from "react";
 export default function Home() {
   const [input, setInput] = useState("0");
 
-  const handleClick = (value: "string") => {
+  const handleClick = (value) => {
     if (value === "AC") return setInput("0");
     if (value === "+/-") return setInput((prev) => (parseFloat(prev) * -1).toString());
     if (value === "%") return setInput((parseFloat(input) / 100).toString());
     if (value === "=") {
       try {
-        const result = eval(input.replace("^", "**")); // simplifikasi
+        const result = eval(input.replace("^", "**")); // Hati-hati, eval bisa berisiko
         setInput(result.toString());
       } catch {
         setInput("Error");
