@@ -2,11 +2,8 @@ import React from 'react';
 
 function Home() {
   return (
-    <!-- frame: Board -->
 <div class="frame board-2e9483535c2f">
-  <!-- group: Group -->
   <div class="group group-2ea0a56c380b">
-    <!-- path: Rectangle -->
     <div class="shape path rectangle-2e953c3e3f48">
       <svg width="1112" xmlns="http://www.w3.org/2000/svg" height="246" id="screenshot-64a63320-04cd-8057-8006-2e953c3e3f48" viewBox="454 -120 1112 246" style="-webkit-print-color-adjust::exact" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1">
         <g id="shape-64a63320-04cd-8057-8006-2e953c3e3f48">
@@ -45,10 +42,8 @@ function Home() {
         </g>
       </svg>
     </div>
-    <!-- rect: logo_header -->
     <div class="shape rect logoheade-2e961a0b02e3">
     </div>
-    <!-- text: UPGRADE SKILL MU! -->
     <div class="shape text upgrade-sk-2e966925680f">
       <div class="text-node-html" id="html-text-node-64a63320-04cd-8057-8006-2e966925680f" data-x="636" data-y="-36">
         <div class="root rich-text root-0" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
@@ -58,7 +53,6 @@ function Home() {
         </div>
       </div>
     </div>
-    <!-- text: KURSUS -->
     <div class="shape text kursus-2e97a665626b">
       <div class="text-node-html" id="html-text-node-64a63320-04cd-8057-8006-2e97a665626b" data-x="916" data-y="-1">
         <div class="root rich-text root-0" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
@@ -68,7 +62,6 @@ function Home() {
         </div>
       </div>
     </div>
-    <!-- text: PROGRAM -->
     <div class="shape text program-2e97b86a2a1b">
       <div class="text-node-html" id="html-text-node-64a63320-04cd-8057-8006-2e97b86a2a1b" data-x="1045" data-y="-1">
         <div class="root rich-text root-0" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
@@ -78,7 +71,6 @@ function Home() {
         </div>
       </div>
     </div>
-    <!-- text: GALLERY ALUMNI -->
     <div class="shape text gallery-al-2e97e323e748">
       <div class="text-node-html" id="html-text-node-64a63320-04cd-8057-8006-2e97e323e748" data-x="1196" data-y="-1">
         <div class="root rich-text root-0" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
@@ -88,7 +80,6 @@ function Home() {
         </div>
       </div>
     </div>
-    <!-- text: TENTANG -->
     <div class="shape text tentang-2e97fa0636a7">
       <div class="text-node-html" id="html-text-node-64a63320-04cd-8057-8006-2e97fa0636a7" data-x="1343" data-y="-1">
         <div class="root rich-text root-0" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
@@ -98,17 +89,13 @@ function Home() {
         </div>
       </div>
     </div>
-    <!-- rect: Rectangle -->
     <div class="shape rect rectangle-2e998dfbcf02">
     </div>
-    <!-- rect: logo_bg -->
     <div class="shape rect logobg-2e9a447f7e97">
     </div>
-    <!-- rect: logo_footer -->
     <div class="shape rect logofoote-2e9a9a8f1172">
     </div>
   </div>
-  <!-- group: Group -->
   <div class="group group-2e9ce792ae94">
     <!-- group: Group -->
     <div class="group group-2e9b79da5c07">
@@ -118,7 +105,6 @@ function Home() {
         <div class="shape rect rectangle-2e9b04ec6a3a">
         </div>
       </div>
-      <!-- text: IMG_MAPS -->
       <div class="shape text imgmaps-2e9b1f47f027">
         <div class="text-node-html" id="html-text-node-64a63320-04cd-8057-8006-2e9b1f47f027" data-x="1312" data-y="615">
           <div class="root rich-text root-0" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
@@ -129,7 +115,6 @@ function Home() {
         </div>
       </div>
     </div>
-    <!-- text: Office Multi Skill
 Jl. Lorem Ipsum, Dolor, Sit Amet
 E-Mail : loremipsum@gmail.com
 Telp/WhatsApp : 081 xx xx x -->
