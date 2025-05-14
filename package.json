@@ -1,0 +1,8 @@
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+"devDependencies": {
+  "@netlify/plugin-nextjs": "^4.38.0"
+}
