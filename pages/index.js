@@ -97,11 +97,8 @@ function Home() {
     </div>
   </div>
   <div class="group group-2e9ce792ae94">
-    <!-- group: Group -->
     <div class="group group-2e9b79da5c07">
-      <!-- frame: Board -->
       <div class="frame board-2e9b71825a0a">
-        <!-- rect: Rectangle -->
         <div class="shape rect rectangle-2e9b04ec6a3a">
         </div>
       </div>
