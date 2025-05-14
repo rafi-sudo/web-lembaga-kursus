@@ -112,9 +112,6 @@ function Home() {
         </div>
       </div>
     </div>
-Jl. Lorem Ipsum, Dolor, Sit Amet
-E-Mail : loremipsum@gmail.com
-Telp/WhatsApp : 081 xx xx x -->
     <div class="shape text office-mul-2e9bad460fe2">
       <div class="text-node-html" id="html-text-node-64a63320-04cd-8057-8006-2e9bad460fe2" data-x="636" data-y="587">
         <div class="root rich-text root-0" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
